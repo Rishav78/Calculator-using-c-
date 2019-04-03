@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1550637536 source:e:\calculator(using c++)\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stack>
+	<algorithm>
+

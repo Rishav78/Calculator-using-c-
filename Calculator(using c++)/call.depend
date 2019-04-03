@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544365079 source:c:\users\rishav\desktop\call\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stack>
+	<algorithm>
+
